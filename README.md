@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nasim Kabir</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasimkabir&label=Profile%20views&color=0e75b6&style=flat" alt="nasimkabir" /> </p>
 
-- 🔭 I’m currently working on **ERP**
+- 🔭 I’m currently working on **Java, Spring framework, Hibernate,JPA, React, SQL, Linux, JavaScript.**
 
 - 🌱 I’m currently learning **Spring boot microservice**
 
